@@ -1,0 +1,15 @@
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\DotNetWeb.exe
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\appsettings.json
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\DotNetWeb.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\DotNetWeb.deps.json
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\DotNetWeb.runtimeconfig.json
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\DotNetWeb.pdb
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\Microsoft.Extensions.Features.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\System.DirectoryServices.Protocols.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\System.IO.Pipelines.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\elca_working\Testcode\local_dotNet\DotNetWeb\bin\Debug\net6.0\publish\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
